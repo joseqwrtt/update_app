@@ -1,7 +1,1 @@
-{
-  "version":     "3.1",
-  "obligatoria": false,
-  "url_exe":     "https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest/download/PlantillasMacro.exe",
-  "sha256":      "",
-  "notas":       "- Nuevo sistema de actualización automática\n- Corrección de errores en el modo simple\n- Mejoras de rendimiento en el detector"
-}
+
