@@ -42,6 +42,11 @@ La aplicación se actualiza automáticamente cuando hay una nueva versión dispo
 ## 🖼️ Capturas
 
 > *(Pendiente)*
+<img width="818" height="753" alt="image" src="https://github.com/user-attachments/assets/196945bd-52ff-45b4-b7c1-5f5865a92002" />
+
+<img width="802" height="755" alt="image" src="https://github.com/user-attachments/assets/e141c918-8982-4638-9401-d407cb6d269d" />
+
+<img width="258" height="551" alt="image" src="https://github.com/user-attachments/assets/a85babfe-527f-4e85-92a7-7236f161f3ac" />
 
 ---
 
